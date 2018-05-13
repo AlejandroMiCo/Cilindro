@@ -22,7 +22,7 @@ public class Cilindro {
 	public static void main (String args[]) {
 		double radio, altura, area;
 		
-		System.out.println("Área de un cilindro");
+		System.out.println("Área de un bonito cilindro");
 		radio=Acciones.pedirDato("\n\n Introduce el radio en cm");
                 System.out.println();
 		altura=Acciones.pedirDato("Ahora la altura en cm");
