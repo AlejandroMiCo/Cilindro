@@ -5,7 +5,6 @@
  */
 package cilindro;
 
-import java.util.Scanner;
 import misfunciones.Acciones;
 import static misfunciones.Acciones.*;
 

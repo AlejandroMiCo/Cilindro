@@ -6,7 +6,7 @@
 package misfunciones;
 
 import java.util.Scanner;
-
+@SuppressWarnings("resource")
 /**
  *
  * @author curro
@@ -29,8 +29,7 @@ public class Acciones {
 			if (dato<0)
 				System.out.println("Dato negativo. Vuelva a introducirlo");
 			
-		}while (dato<0);
-		
+		}while (dato<0);		
 		return dato;
 	}
 	
